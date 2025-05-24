@@ -2,7 +2,7 @@ import { FaCamera } from "react-icons/fa";
 import ProfilePic from "../assets/profilePic.jpg";
 export const Profile = () => {
   return (
-    <div className="flex flex-col bg-primary md;px-[35%] h-screen md:justify-center">
+    <div className="flex flex-col bg-primary md:px-[35%] h-screen md:justify-center">
       <div className="bg-white p-3 text-xl md:text-2xl">Account Settings</div>
       <div className="flex p-4 gap-4">
         <span className="relative">
